@@ -1,0 +1,43 @@
+{
+  "axis_points": {
+    "x_min": [
+      43,
+      200
+    ],
+    "x_max": [
+      1074,
+      203
+    ],
+    "y_min": [
+      45,
+      277
+    ],
+    "y_max": [
+      42,
+      50
+    ]
+  },
+  "limits": [
+    [
+      0,
+      0
+    ],
+    [
+      2.5,
+      0
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      4
+    ]
+  ],
+  "image_path": "c:\\Users\\Arina_Luzgina\\Desktop\\phystech\\laba\\rqc\\extract_data_from_photo\\images\\rotation.png",
+  "image_size": [
+    354,
+    1089
+  ]
+}

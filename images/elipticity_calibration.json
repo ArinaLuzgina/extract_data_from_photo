@@ -1,0 +1,43 @@
+{
+  "axis_points": {
+    "x_min": [
+      24,
+      127
+    ],
+    "x_max": [
+      419,
+      126
+    ],
+    "y_min": [
+      24,
+      154
+    ],
+    "y_max": [
+      25,
+      11
+    ]
+  },
+  "limits": [
+    [
+      1.6,
+      0
+    ],
+    [
+      2.5,
+      0
+    ],
+    [
+      1.6,
+      -2
+    ],
+    [
+      1.6,
+      8
+    ]
+  ],
+  "image_path": "c:\\Users\\Arina_Luzgina\\Desktop\\phystech\\laba\\rqc\\extract_data_from_photo\\images\\elipticity.png",
+  "image_size": [
+    168,
+    435
+  ]
+}

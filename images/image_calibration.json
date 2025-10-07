@@ -1,0 +1,43 @@
+{
+  "axis_points": {
+    "x_min": [
+      220,
+      627
+    ],
+    "x_max": [
+      1103,
+      632
+    ],
+    "y_min": [
+      218,
+      627
+    ],
+    "y_max": [
+      215,
+      284
+    ]
+  },
+  "limits": [
+    [
+      350,
+      0
+    ],
+    [
+      800,
+      0
+    ],
+    [
+      350,
+      0
+    ],
+    [
+      350,
+      100
+    ]
+  ],
+  "image_path": "c:\\Users\\Arina_Luzgina\\Desktop\\phystech\\laba\\rqc\\extract_data_from_photo\\images\\image.png",
+  "image_size": [
+    903,
+    1280
+  ]
+}
